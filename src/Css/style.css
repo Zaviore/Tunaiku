@@ -1,0 +1,7 @@
+.border {
+  display: flex !important ;
+  flex-direction: row !important;
+}
+.container {
+  padding-top: 50px !important;
+}
